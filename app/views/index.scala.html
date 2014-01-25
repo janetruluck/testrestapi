@@ -1,0 +1,11 @@
+@(users: List[User])
+
+@main("TestRestApi") {
+  <h1>@users.size users(s)</h1>
+  @users.map {user => 
+    <div>
+      @user.email | @user.encrypted_password
+    </div>
+  }
+
+}

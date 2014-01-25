@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy play resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/jason/Projects/Personal/testrestapi/public/images/favicon.png,/Users/jason/Projects/Personal/testrestapi/target/scala-2.10/classes/public/images/favicon.png)[0m
+[0m[[0mdebug[0m] [0m	(/Users/jason/Projects/Personal/testrestapi/public/javascripts/jquery-1.9.0.min.js,/Users/jason/Projects/Personal/testrestapi/target/scala-2.10/classes/public/javascripts/jquery-1.9.0.min.js)[0m
+[0m[[0mdebug[0m] [0m	(/Users/jason/Projects/Personal/testrestapi/public/stylesheets/main.css,/Users/jason/Projects/Personal/testrestapi/target/scala-2.10/classes/public/stylesheets/main.css)[0m
